@@ -1,0 +1,49 @@
+.array-container {
+    position : center ;
+    left : 100px ;
+    margin-top: 100px;
+}
+
+.array-bar {
+    width : 9px ;
+    background-color : red ;
+    display : inline-block ;
+    margin : 0 1px ;
+}
+.project_Name {
+    margin-top: 0px;
+    position: relative;
+    z-index: 4;
+    text-align: left;
+    font-size: 50px;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+    color: whitesmoke;
+    background-image: url("./blackbg.jpg");
+  }
+  .button_1 {
+    border: rgb(166, 247, 5);
+    background-color: red;
+    color: whitesmoke;
+    padding: 5px 29px;
+    text-align: center;
+    text-decoration: yellow;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: cursive;
+  }
+  .button_2 {
+    border: rgb(166, 247, 5);
+    background-color: rgb(88, 92, 87);
+    color: whitesmoke;
+    padding: 5px 29px;
+    text-align: center;
+    text-decoration: yellow;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: cursive;
+  }
